@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    font-size: larger;
+}
+div {
+  height: 250px;
+  width: 250px;
+  background-color: blueviolet;
+  border: 5px solid aquamarine;
+  margin-top: 100px;
+}
