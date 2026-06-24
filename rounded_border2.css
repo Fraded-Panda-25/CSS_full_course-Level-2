@@ -1,0 +1,14 @@
+#div1 {
+  height: 200px;
+  width: 200px;
+  background-color: blueviolet;
+  border: 5px solid black;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#div2 {
+  text-align: center;
+}
