@@ -2,8 +2,6 @@
 body {
   background-color: black;
   color: aliceblue;
-  margin: 0;
-  font-family: 'Times New Roman', Times, serif;
 }
 
 /* Company logo */
@@ -11,13 +9,11 @@ body {
   font-size: 25px;
   color: rgb(234, 131, 5);
   font-weight: bold;
-  cursor: pointer;
 }
 
 /* navbar */
 .nav_main {
   display: flex;
-  align-items: center;
   height: 60px;
 }
 
@@ -29,9 +25,4 @@ body {
 .list {
   margin-left: 200px;
   margin-right: 200px;
-  padding: 0;
-}
-/* search button */
-#search_button{
-  background-color: rgb(239, 135, 7);
 }
