@@ -8,7 +8,9 @@ body {
 #company_logo {
   font-size: 25px;
   color: rgb(234, 131, 5);
-  font-weight: bold;
+  display: flex;
+    padding-right: 200px;
+
 }
 
 /* navbar */
@@ -23,6 +25,7 @@ body {
   display: flex;
 }
 .list {
-  margin-left: 200px;
-  margin-right: 200px;
+    list-style-type: none;
+  padding-right: 200px;
+  display: flex;
 }
