@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header{
+    background-color: rgb(3, 1, 37);
+}
+
+.main {
+  display: inline-block;
+  height: 60px;
+}
+
+/* Main logo */
+#logo {
+  font-weight: bold;
+  color: rgba(255, 153, 0, 1);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  display: inline-block;
+  margin-right: 50px;
+  margin-top: 10px;
+}
+
+#div_links {
+  display: inline-block;
+  list-style: none;
+  display: inline-block;
+  margin-right: 50px;
+  margin-top: 10px;
+}
+
+#links {
+  list-style: none;
+  display: inline-block;
+  margin-right: 50px;
+  color: aliceblue;
+  margin-top: 10px;
+}
+#search {
+    width: 500px;
+}
+#search_button{
+    background-color: rgba(255, 153, 0, 1);
+    width: 70px;
+    border-color: rgba(255, 153, 0, 1);
+    margin-right: 50px;
+}
