@@ -1,19 +1,19 @@
 #d1 {
-    background-color: pink;
-    margin: 25px;
-    padding: 25px;
-    display: inline;
+  background-color: pink;
+  margin: 25px;
+  padding: 25px;
+  display: inline;
 }
 #d2 {
-    background-color: aquamarine;
-    margin: 25px;
-    padding: 25px;
-    /* display: block; */
-    visibility: hidden;
+  background-color: aquamarine;
+  margin: 25px;
+  padding: 25px;
+  /* display: block; */
+  visibility: hidden;
 }
 #d3 {
-    background-color: blueviolet;
-    margin: 25px;
-    padding: 25px;
-    display: inline;
+  background-color: blueviolet;
+  margin: 25px;
+  padding: 25px;
+  display: inline;
 }

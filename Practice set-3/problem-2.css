@@ -9,8 +9,7 @@ body {
   font-size: 25px;
   color: rgb(234, 131, 5);
   display: flex;
-    padding-right: 200px;
-
+  padding-right: 200px;
 }
 
 /* navbar */
@@ -25,7 +24,7 @@ body {
   display: flex;
 }
 .list {
-    list-style-type: none;
+  list-style-type: none;
   padding-right: 200px;
   display: flex;
 }
