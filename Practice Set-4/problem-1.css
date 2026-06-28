@@ -40,22 +40,25 @@ header {
 }
 #search {
   width: 500px;
+  height: 40px;
 }
 #search_button {
   background-color: rgba(255, 153, 0, 1);
   width: 70px;
   border-color: rgba(255, 153, 0, 1);
   margin-right: 50px;
+  height: 40px;
 }
-#main_div {
-  background-color: yellowgreen;
+#main_div1,
+#main_div2,
+#main_div3 {
   height: 100px;
   width: 100px;
 }
-main{
+main {
   background-color: rgb(7, 28, 88);
 }
-pre{
+pre {
   text-align: center;
   background-color: rgb(19, 26, 34);
   color: white;

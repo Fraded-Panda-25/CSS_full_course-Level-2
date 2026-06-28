@@ -1,0 +1,7 @@
+/* TODO: Give the content area an appropriate height. */
+main {
+  min-height: auto;
+  max-height: 100%;
+  min-width: auto;
+  max-width: 100%;
+}
