@@ -47,7 +47,8 @@ header {
   border-color: rgba(255, 153, 0, 1);
   margin-right: 50px;
 }
-# main_div{
+#main_div {
+  background-color: yellowgreen;
   height: 100px;
   width: 100px;
 }
